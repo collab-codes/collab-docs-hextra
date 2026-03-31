@@ -7,6 +7,7 @@ Official documentation for Collab.codes.
 This is the official documentation site for Collab.codes, containing guides, technical references, API documentation, and internal knowledge base.
 
 ### Sites
+- **Docs**: [docs.collab.codes](https://docs.collab.codes)
 - **Blog**: [blog.collab.codes](https://blog.collab.codes)
 - **Main Site**: [www.collab.codes](https://www.collab.codes)
 
