@@ -1,18 +1,10 @@
 ---
-title: Documentation
-next: first-page
+title: "Documentation Home"
+description: "Main documentation index"
+layout: docs
+toc: false
 ---
 
-This is a demo of the theme's documentation layout.
+Welcome to the documentation.
 
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+Use the search bar at the top or browse the sections in the sidebar.
